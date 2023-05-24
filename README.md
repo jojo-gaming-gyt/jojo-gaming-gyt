@@ -15,6 +15,8 @@
 ###### GladeMC
 Ich bin im Serverteam von GladeMC tätig.
 Hierbei kümmere ich mich um alles um den Server herum (Server, Webhosting, API)
+- https://www.youtube.com/@GladeMC
+- https://api.glademc.de/docs (Im Aufbau, mitunter nicht erreichbar)
 
 
 
