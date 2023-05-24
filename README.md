@@ -1,13 +1,20 @@
-#Über Mich
-- 👋 Hi, I’m @jojo-gaming-gyt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+# Über Mich
+- 👋 Hallo ich bin Jojo_gaming_gyt
+- 🖥  Programmiersprache: Python 🐍
 
-#Links
-Discord: Jojo_gaming_gyt#1783 https://discord.gg/Pxam2K7uVm
-Youtube: https://www.youtube.com/channel/UCIAIlXPUg8Y4ZSxOniLYqrQ
+# Links
+📫 How to reach me 
+###### Discord: 
+- Jojo_gaming_gyt#1783 
+- https://discord.gg/Pxam2K7uVm
+###### Youtube: 
+- https://www.youtube.com/channel/UCIAIlXPUg8Y4ZSxOniLYqrQ
+
+# Projekte
+
+###### GladeMC
+Ich bin im Serverteam von GladeMC tätig.
+Hierbei kümmere ich mich um alles um den Server herum (Server, Webhosting, API)
 
 
 
