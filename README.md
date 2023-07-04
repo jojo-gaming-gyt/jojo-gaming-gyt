@@ -4,9 +4,11 @@
 
 # Links
 📫 How to reach me 
+
 ###### Discord: 
-- Jojo_gaming_gyt#1783 
+- @jojo_gaming_gyt / Jojo_gaming_gyt#1783 
 - https://discord.gg/Pxam2K7uVm
+- 
 ###### Youtube: 
 - https://www.youtube.com/channel/UCIAIlXPUg8Y4ZSxOniLYqrQ
 
