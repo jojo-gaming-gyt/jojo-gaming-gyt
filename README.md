@@ -10,7 +10,7 @@
 - https://discord.gg/Pxam2K7uVm
 - 
 ###### Youtube: 
-- https://www.youtube.com/channel/UCIAIlXPUg8Y4ZSxOniLYqrQ
+- https://www.youtube.com/@jojo_gaming_gyt
 
 # Projekte
 
