@@ -1,14 +1,15 @@
-# Über Mich
+## Über Mich
 - 👋 Hallo ich bin Jojo_gaming_gyt
+- 🇩🇪
 
-# Programmiersprachen
+## Programmiersprachen
 
-🖥  Prigramming Languages
+🖥  Programming Languages
 
 - Python3 🐍
 - C++ (Arduino, ESP32, Processing)
 
-# Links
+## Links
 📫 How to reach me 
 
 ###### Discord: 
@@ -18,7 +19,8 @@
 ###### Youtube: 
 - https://www.youtube.com/@jojo_gaming_gyt
 
-# Projekte
+## Projekte
+📒 Projects
 
 ###### GladeMC
 Ich bin im Serverteam von GladeMC tätig.
