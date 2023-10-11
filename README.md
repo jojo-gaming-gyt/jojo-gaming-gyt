@@ -1,6 +1,12 @@
 # Über Mich
 - 👋 Hallo ich bin Jojo_gaming_gyt
-- 🖥  Programmiersprache: Python 🐍
+
+# Programmiersprachen
+
+🖥  Prigramming Languages
+
+- Python3 🐍
+- C++ (Arduino, ESP32, Processing)
 
 # Links
 📫 How to reach me 
@@ -8,7 +14,7 @@
 ###### Discord: 
 - @jojo_gaming_gyt / Jojo_gaming_gyt#1783 
 - https://discord.gg/Pxam2K7uVm
-- 
+
 ###### Youtube: 
 - https://www.youtube.com/@jojo_gaming_gyt
 
@@ -18,7 +24,12 @@
 Ich bin im Serverteam von GladeMC tätig.
 Hierbei kümmere ich mich um alles um den Server herum (Server, Webhosting, API)
 - https://www.youtube.com/@GladeMC
-- https://api.glademc.de/docs (Im Aufbau, mitunter nicht erreichbar)
+- https://short.glademc.de/discord (Im Aufbau, mitunter nicht erreichbar)
+
+###### Minecarft Boom
+Durch meine Tätigkeit für GladeMC bin ich auch für das Minecraft Projekt Minecraft Boom tätig
+- https://short.glademc.de/boom
+
 
 
 
