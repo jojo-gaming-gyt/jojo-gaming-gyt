@@ -26,9 +26,9 @@
 Ich bin im Serverteam von GladeMC tätig.
 Hierbei kümmere ich mich um alles um den Server herum (Server, Webhosting, API)
 - https://www.youtube.com/@GladeMC
-- https://short.glademc.de/discord (Im Aufbau, mitunter nicht erreichbar)
+- https://short.glademc.de/discord
 
-###### Minecarft Boom
+###### Minecraft Boom
 Durch meine Tätigkeit für GladeMC bin ich auch für das Minecraft Projekt Minecraft Boom tätig
 - https://short.glademc.de/boom
 
